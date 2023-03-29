@@ -7,11 +7,8 @@ import java.util.Scanner;
 public class Project1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 String filename;
-
-//File file = new File("D:\\SimplilearnProject");
-
 char ch;
 
 Scanner sc = new Scanner(System.in);
